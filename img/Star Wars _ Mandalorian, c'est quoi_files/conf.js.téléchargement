@@ -1,0 +1,4 @@
+
+var conf = {"segment_evaluator_uri":null,"segment_evaluator_url":"https://static.mediarithmics.com/tag/2/evaluator.min.js","enable_local_segment_evaluation":true,"segment_definition_uri":"/v1/sites/all-2020/segment.js?v=52","namespace":"webediaMics"}
+if(window.mics && window.mics._setConfig){mics._setConfig(conf)};
+        

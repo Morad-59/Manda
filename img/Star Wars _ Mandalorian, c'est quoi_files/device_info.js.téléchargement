@@ -1,0 +1,2 @@
+var d = {"form_factor":"SMARTPHONE","os_family":"ANDROID","browser_family":"CHROME","browser_version":"83.0.4103.61","brand":"LG","model":"Nexus 5","os_version":"Android 6.0 Marshmallow","carrier":null,"raw_value":null,"agent_type":"WEB_BROWSER"}
+if(window.mics && window.mics._setDeviceInfo){mics._setDeviceInfo(d);}

@@ -1,0 +1,61 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .index {
+            font-family: 'Metal Mania', cursive;
+            color: gold;
+            text-align: center;
+            background-size: 100%;
+            background-image: url(img/disney.jpg);
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }
+        
+        fieldset {
+            margin: 10em auto;
+            max-width: 40%;
+        }
+        
+        .fixed {
+            position: fixed;
+            width: 100%;
+        }
+        
+        .accueil {
+            font-family: 'Metal Mania', cursive;
+            color: gold;
+            background-color: black;
+            text-align: center;
+            margin: 50px 70px;
+        }
+        
+        .tableau {
+            font-family: 'Metal Mania', cursive;
+            color: gold;
+            background-color: black;
+        }
+        
+        td {
+            border: 1px solid red;
+        }
+        
+        td img {
+            max-width: 100%;
+            height: 100px;
+            text-align: center;
+        }
+        
+        body {
+            background-color: black;
+        }
+        
+        p {
+            margin: 20px 30px
+        }
+        
+        a {
+            color: gold;
+        }
